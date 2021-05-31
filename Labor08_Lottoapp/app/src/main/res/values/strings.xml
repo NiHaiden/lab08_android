@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Labor08_Lottoapp</string>
+    <string name="rb_45">6 out of 45</string>
+    <string name="rb_49">6 out of 49</string>
+    <string name="tip_count_field">Tip count between 1–10</string>
+    <string name="generate_btn">Generate Tips</string>
+    <string-array name="number_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
